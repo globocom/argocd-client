@@ -1,4 +1,7 @@
 #!/bin/sh
+# Copyright (c) 2020, Globo (https://github.com/globocom)
+# License: BSD-3-Clause
+#
 # ref: https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
 #
 # Usage example: /bin/sh ./git_push.sh wing328 openapi-pestore-perl "minor update" "gitlab.com"

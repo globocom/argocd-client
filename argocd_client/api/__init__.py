@@ -1,3 +1,6 @@
+# Copyright (c) 2020, Globo (https://github.com/globocom)
+# License: BSD-3-Clause
+
 from __future__ import absolute_import
 
 # flake8: noqa

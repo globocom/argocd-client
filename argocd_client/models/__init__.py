@@ -1,4 +1,6 @@
 # coding: utf-8
+# Copyright (c) 2020, Globo (https://github.com/globocom)
+# License: BSD-3-Clause
 
 # flake8: noqa
 """
